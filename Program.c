@@ -1,10 +1,6 @@
-#include<bits/stdc++.h>
-
-using namespace std;
+#include<stdio.h>
 
 int main(){
-  cout << "Dobrodosli na GITHUB!" << "\n";
-  vector<int> a;
-  a.push_back(1);
+  printf("Kod");
   return 0;
 }
