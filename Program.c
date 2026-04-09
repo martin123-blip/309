@@ -2,5 +2,5 @@
 
 int main(){
   printf("Kod");
-  return 0;
+  printf("AAA");
 }
